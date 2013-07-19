@@ -1,3 +1,14 @@
-17juillet
-t'es beau alex
-SIKE !!!!!
+Control
+
+      W=Up
+A=Left    D=Right
+
+Space= Jump
+Maj= Switch
+
+Sk÷ll= Big Jump/Fire
+Hati= Break objects/Ice
+
+Ok?
+
+YES [ ]    NO [ ]
